@@ -135,7 +135,7 @@ streamlit run streamlit_app.py
 
 ## 🌐 Demo & Credits
 - **Author**: Sandikha Rahardi (Kuldii Project)
-- **Website**: https://hello.kuldiiproject.com
+- **Website**: https://kuldiiproject.com
 - **Dataset**: [Scikit-learn Iris](https://scikit-learn.org/stable/datasets/toy_dataset.html#iris-plants-dataset)
 - **UI**: [Gradio](https://gradio.app/), [Streamlit](https://streamlit.io/)
 - **ML**: [Scikit-learn](https://scikit-learn.org/)
