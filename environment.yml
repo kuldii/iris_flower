@@ -1,0 +1,13 @@
+name: iris-flower-classifier
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - scikit-learn
+  - joblib
+  - pip
+  - pip:
+      - streamlit
+      - gdown
